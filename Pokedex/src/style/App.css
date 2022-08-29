@@ -1,0 +1,18 @@
+.App {
+  background: rgb(201, 75, 75);
+  background: linear-gradient(
+    90deg,
+    rgba(201, 75, 75, 1) 0%,
+    rgba(75, 19, 79, 1) 89%
+  );
+  min-height: 100vh !important;
+  padding-bottom: 30px;
+}
+
+.footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+}
