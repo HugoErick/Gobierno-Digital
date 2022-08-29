@@ -5,7 +5,7 @@ const About = () => {
     <div className="container text-light">
       <h1>Pokedex</h1>
       <div></div>
-      <h3>What is this?</h3>
+      <h3>Que es esta aplicacion?</h3>
       <p>
         This website provides a RESTful API interface to highly detailed objects
         built from thousands of lines of data related to Pokémon. We
